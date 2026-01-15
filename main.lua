@@ -4,8 +4,8 @@ gg.setVisible(false)
 LOCAL_VERSION = "1.0"
 PASSWORD = "1234"
 
-VERSION_URL = "https://raw.githubusercontent.com/FoysalAhammad/REPO/main/version.txt"
-SCRIPT_URL  = "https://raw.githubusercontent.com/FoysalAhammad/REPO/main/main.lua"
+VERSION_URL = "https://raw.githubusercontent.com/FoysalAhammad/Access61-FF-Script/main/version.txt"
+SCRIPT_URL  = "https://raw.githubusercontent.com/FoysalAhammad/Access61-FF-Script/main/main.lua"
 
 SCRIPT_PATH = gg.getFile():match("(.*/)")
 SCRIPT_FILE = SCRIPT_PATH .. "main.lua"
