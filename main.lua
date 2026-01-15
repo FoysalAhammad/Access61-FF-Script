@@ -1,7 +1,7 @@
 gg.setVisible(false)
 
 -- ===== CONFIG =====
-LOCAL_VERSION = "1.0"
+LOCAL_VERSION = "1.1"
 PASSWORD = "1234"
 
 VERSION_URL = "https://raw.githubusercontent.com/FoysalAhammad/Access61-FF-Script/main/version.txt"
@@ -57,7 +57,7 @@ end
 -- ===== TEST MENU =====
 function menu()
   local m = gg.choice({
-    "Test Option 1",
+    "Test Option updateed 1",
     "Test Option 2",
     "Exit"
   }, nil, "🔐 Test Script")
